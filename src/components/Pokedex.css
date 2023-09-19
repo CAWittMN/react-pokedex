@@ -1,0 +1,11 @@
+.Pokedex-title {
+  color: darkgray;
+}
+
+.Pokedex-winner {
+  color: green;
+}
+
+.Pokedex-loser {
+  color: red;
+}
